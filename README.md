@@ -30,5 +30,5 @@ Para uma visão mais detalhada do diagrama de classes, clique aqui para acessar 
 Clone o repositório para sua máquina local com o comando git clone.
 Abra o projeto em sua IDE Java preferida.
 Explore o código-fonte e o diagrama UML para compreender as interações entre as classes e a implementação de cada funcionalidade.
-Consulte o README.md para obter informações detalhadas sobre o declssafio, as decisões de design e as instruções de execução.
+Consulte o README.md para obter informações detalhadas sobre o desafio, as decisões de design e as instruções de execução.
 Este repositório serviu como uma rica fonte de aprendizado, permitindo um aprofundamento em modelagem de software, programação orientada a objetos e design de sistemas complexos.
